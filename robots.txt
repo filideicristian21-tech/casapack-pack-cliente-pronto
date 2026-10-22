@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://filideicristian21-tech.github.io/casapack-pack-cliente-pronto/sitemap.xml
